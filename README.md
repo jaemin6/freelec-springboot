@@ -40,3 +40,13 @@
 ```bash
 java -version
 git --version
+
+
+
+
+## 3) 결과
+
+<img width="772" height="302" alt="image" src="https://github.com/user-attachments/assets/701f1de4-85b7-4564-abcd-7abcb6841c8c" />
+
+로컬호스트/h2-consol에서 결과 수정, 삭제
+
