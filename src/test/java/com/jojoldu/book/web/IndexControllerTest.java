@@ -1,4 +1,4 @@
-package com.jojoldu.book.web.dto;
+package com.jojoldu.book.web;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
